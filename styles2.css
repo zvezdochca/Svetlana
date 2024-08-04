@@ -1,0 +1,45 @@
+﻿body {
+    font-size: 24px;
+}
+.red {
+    color: red;
+}
+.red {
+    color: red;
+}
+.bold {
+    font-weight: bolder;
+}
+.bold {
+    font-weight: bolder;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.xxsmall {
+    font-size: 10px;
+}
+.xsmall {
+    font-size: 20px;
+}
+.small {
+    font-size: 30px;
+}
+.medium {
+    font-size: 40px;
+}
+.large {
+    font-size: 50px;
+}
+.xlarge {
+    font-size: 60px;
+}
+.xxlarge {
+    font-size: 70px;
+}

@@ -1,0 +1,19 @@
+﻿.large{
+    font-size: x-large;
+}
+.Medium{
+    font-size: medium;
+}
+.Small{
+    font-size: xx-small;
+}
+.Bold{
+    font-weight: bolder;
+}
+.BoldI{
+    font-weight: bolder;
+    font-style: italic;
+}
+.Ialic{
+    font-style: italic;
+}
